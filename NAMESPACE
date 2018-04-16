@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("grDevices","dev.new","gray")
+importFrom("graphics", "abline", "legend", "lines","mtext",
+"par","plot","points","segments","text","title")
+importFrom("stats", "pchisq","model.extract","terms")
+
